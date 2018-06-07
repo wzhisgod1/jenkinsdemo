@@ -6,7 +6,7 @@
 	<groupId>com.bolingcavalry</groupId>
 	<artifactId>mavendockerplugindemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>mavendockerplugindemo</name>
 	<description>maven docker plugin demo</description>
